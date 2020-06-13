@@ -1,0 +1,10 @@
+R5T.D0015.Base - A base service definitions library for the IFileEqualityComparer, path-based, stringly-typed path, R5T.D0010.IMessageSink-based messaging input parameter service.
+
+
+Prior work:
+
+* R5T.Bedford.Bath
+
+
+Goals
+
